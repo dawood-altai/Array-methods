@@ -22,3 +22,10 @@ console.log(size);
 const fruits2 = ["Banana", "Orange", "Apple", "Mango"];
 fruits2.pop();
 console.log(fruits2);
+
+// The pop() method returns the value that was "popped out":
+
+
+const fruits3 = ["Banana", "Orange", "Apple", "Mango"];
+let fruit3 = fruits3.pop();
+console.log(fruit3)
